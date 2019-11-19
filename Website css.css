@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+	font-family: Helvetica; 
+	background-color: #222222;
+	color: #B5B5B5;
+}
+
+.Toptitle {
+	text-align: center;
+}
+
+.Parent {
+	align: left;
+	
+}
+
+.daughter1 {
+	align: left;
+}
